@@ -1,8 +1,8 @@
 ###### vznDEEZY: CONFIG, OPTIONS & SETTINGS for CS:GO - ESEA & FACEIT Optimized
 ###### Last Updated: 12/20/2020
 
-> Autoexec "vznexec.cfg" Path: C:\Program Files(x86)\Games\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\vznexec.cfg
-> Video Config Path: C:\Program Files(x86)\Games\Steam\userdata\_STEAMID_\730\local\cfg\
+##### Place the "vznexec.cfg" file to your Steam CSGO Directory
+###### Example Path: C:\Program Files(x86)\Games\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\vznexec.cfg
 
 ### Windows Information & Settings
 	OS: Windows 10 Pro
@@ -17,7 +17,7 @@
 	Game Mode: Enabled
 	NAT Type: Moderate
 	Background Apps: Disabled		
-###	NVIDIA 3D Settings (Tweaked Program Settings)
+### NVIDIA 3D Settings (Tweaked Program Settings)
 ##### Right-click on your desktop & open NVIDIA Control Panel to make these changes.
 ###### Best visibility & smoother gameplay __particularly for my specs__
 	Anisotropic Filtering: 16x
